@@ -4,8 +4,9 @@
 
 <h1 align="center">I'm Junior Roca</a></h1>
 
+<h2 align="left">About me</h2>
 
-- 🌱Estudiante de Ingeniera de Sistemas 
+- 🌱Software Engineering student
 - 🌎Barranquilla, Colombia
 - 🎓Universidad de la costa
 
