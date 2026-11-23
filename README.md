@@ -11,5 +11,5 @@
 - 🎓Universidad de la costa
 
 <h2 align="left">Technologies I am familiar with or am learning</h2>
-<img src="https://skillicons.dev/icons?i=git,aws,css,github,html,java,js,linux,arch,nextjs,nodejs,py,react,vscode&perline=14" />
+<img src="https://skillicons.dev/icons?i=git,arch,aws,css,github,html,java,js,linux,nextjs,nodejs,py,react,vscode&perline=14" />
     
